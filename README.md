@@ -28,7 +28,7 @@ O sistema foi desenvolvido para um banco que busca monetizar suas operações e 
 
 - Back-End básico
 
-
+-----------------------------------------------------------------------------------------------------------------
 <a id="Credito"></a>
 #### 🏆 Créditos
 <div align="left">👧🏽 - ver mais em <a href="https://github.com/angelicakadja">AK</a>.</div>
